@@ -85,19 +85,18 @@ def extract_url_pdf(input_url,folder_path=os.getcwd()):
 # In[5]:
 
 
-extract_url_pdf(input_url="https://www.icai.org/post.html?post_id=17843")
+extract_url_pdf(input_url="https://www.wajibati.net/%d8%ad%d9%84-%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89-%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%87%d8%a7/")
 
 
 # In[6]:
 
 
-extract_url_pdf(input_url="https://cbic-gst.gov.in/central-tax-notifications.html")
+extract_url_pdf(input_url="https://www.wajibati.net/%d8%ad%d9%84-%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89-%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%84%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%87%d8%a7/")
 
 # https://cbic-gst.gov.in/central-tax-notifications.html
 
 
 # In[ ]:
-
 
 
 
